@@ -7,6 +7,6 @@ The code here is for beginners. Feel free to code in OpenCV!
 
 ## What'new
 
--- 2018/6/29 Add opencv-trackers module that allows you to create trackers easily. OpenCV now has a lot of trackers, such as TLD(my favourite). Thanks to qq_35488769's original codes.
+2018/8/30 Add opencv-blur and opencv-resize.
 
-
+2018/6/29 Add opencv-trackers module that allows you to create trackers easily. OpenCV now has a lot of trackers, such as TLD(my favourite). Thanks to qq_35488769's original codes.
